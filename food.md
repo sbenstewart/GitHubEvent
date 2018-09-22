@@ -5,5 +5,6 @@ This creates new issues ... known as merge conflicts.
 # What to we have for dinner ?
 Please be civilised here. Nothing special will be provided for you !
 * Chappatis
-* Panneer
+* chicken
 * Lime Juice
+<b> Thanks a lot for coming </b>
