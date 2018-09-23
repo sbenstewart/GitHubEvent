@@ -5,4 +5,8 @@ This creates new issues ... known as merge conflicts.
 <br>
 # Food Menu
 Please be civil here.
+* Chappatis
+* Paneer
+* Lemon juice
+<br>
 <b>We will end with this. Trust me.</b>
