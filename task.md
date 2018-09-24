@@ -28,7 +28,7 @@ In your terminal, create a demo project that replicates these steps:
 9. Copy the first paragraph about the planet, paste it into your planet.md and commit it.
 10. Save and then commit. Make sure that the commit message is meaningful.
 11. Create a repository in [GitHub](https://github.com/new) with the name `One-small-step`.
-12. `git add remote origin <git url here>` (to add the remote).
+12. `git remote add origin <git url here>` (to add the remote).
 13. `git push -u origin master` (to push your code to your repository).
 14. Send the link of your repository to [https://github.com/sbenstewart/GitHubEvent/issues/new](https://github.com/sbenstewart/GitHubEvent/issues/new).
 15. Use your `name - completed` as the title and the link to your repository in the comment.
