@@ -4,11 +4,12 @@
 
 
 1. Register for an account on [github.com](https://github.com/). You’ll use GitHub for hands-on activities.
-2. [Download, install and configure git](https://gist.github.com/sbenstewart/34b9629976ab85094f476b8277078208)..  In your terminal, configure Git to recognize you:
-`git config --global user.name “First Last"`
-`git config --global user.email "email@example.com"`
-3. Meet [Ben Stewart](https://github.com/sbenstewart)!
-    - Ben will be assisting with issues you may run into issues and with your pull requests (when we get there).
+2. [Download, install and configure git](https://gist.github.com/sbenstewart/34b9629976ab85094f476b8277078208).
+3. In your terminal, configure Git to recognize you:
+    - `git config --global user.name “First Last"`
+    - `git config --global user.email "email@example.com"`
+4. Meet [Ben Stewart](https://github.com/sbenstewart)!
+    - Ben will be assisting with issues you may run into and also with your pull requests (when we get there).
     - You can get Ben's help by posting a new issue in the [GitHubEvent issue section.](https://github.com/sbenstewart/GitHubEvent/issues/new)
 
 # Basics
@@ -29,5 +30,5 @@ In your terminal, create a demo project that replicates these steps:
 11. Create a repository in [GitHub](https://github.com/new) with the name `One-small-step`.
 12. `git add remote origin <git url here>` (to add the remote).
 13. `git push -u origin master` (to push your code to your repository).
-14. Send the link of your repository to [sbenstewart](https://github.com/sbenstewart/GitHubEvent/issues/new).
+14. Send the link of your repository to [https://github.com/sbenstewart/GitHubEvent/issues/new](https://github.com/sbenstewart/GitHubEvent/issues/new).
 15. Use your `name - completed` as the title and the link to your repository in the comment.
