@@ -6,6 +6,9 @@ This creates new issues ... known as merge conflicts.
 # Food Menu
 Please be civil here.
 <br>
+* Fried-Rice
+* Chappati
+* Chicken gravy
 * Soup
 * Chicken Tandoori
 * Panneer
