@@ -6,8 +6,14 @@ This creates new issues ... known as merge conflicts.
 # Food Menu
 Please be civil here.
 <br>
-* rice
-* chappati
-* chicken gravy
+* Fried-Rice
+* Chappati
+* Chicken gravy
+* Soup
+* Chicken Tandoori
+* Panneer
+* Eggs
+* Biryani
+* Ice-cream
 <br>
 <b>We will end with this. Trust me.</b>
