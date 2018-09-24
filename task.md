@@ -26,7 +26,7 @@ In your terminal, create a demo project that replicates these steps:
 7. `git commit -m ‘added readme’`
 8. Choose a Wikipedia page about a planet of your choice.
 9. Copy the first paragraph about the planet, paste it into your planet.md and commit it.
-10. Save, then commit, then close out of atom. Make sure that the commit message is meaningful.
+10. Save and then commit. Make sure that the commit message is meaningful.
 11. Create a repository in [GitHub](https://github.com/new) with the name `One-small-step`.
 12. `git add remote origin <git url here>` (to add the remote).
 13. `git push -u origin master` (to push your code to your repository).
