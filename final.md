@@ -13,7 +13,7 @@ Please be civil here.
 * Chicken Tandoori
 * Panneer
 * Biryani
+* Shawarma
 * Ice-cream
-
 <br>
 <b>We will end with this. Trust me.</b>
