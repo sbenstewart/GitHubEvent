@@ -21,7 +21,7 @@ In your terminal, create a demo project that replicates these steps:
 2. `git init`
 3. `vi readme.md` (type about the project)
 4. `git add readme.md`
-5. `git reset readme.md`
+5. `git reset readme.md` (new command to remove files from staging area)
 6. `git add readme.md` (to get it back in the staging area)
 7. `git commit -m ‘added readme’`
 8. Choose a Wikipedia page about a planet of your choice.
