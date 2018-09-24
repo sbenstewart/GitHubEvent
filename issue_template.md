@@ -12,6 +12,6 @@ Please replace this line with a brief summary of your errors or doubts **AND** i
 
 ### Complete:
 
-**If you have completed it, include the link to the repository.**
+**If you have completed it, include the link to the repository here:**
 
 We will consider your request but it may be closed if it's something we're not actively planning to work on.
