@@ -5,7 +5,9 @@ The department symposium workshop content.
 2. Have a text editor of your choice. I prefer [Atom](https://atom.io/). Even the CommandPrompt or the Terminal is fine.
 3. Bringing a <b>fully charged laptop</b> with the charging cable if needed would help you get the most out of the session.
 # Task
-The task you have you to complete has been uploaded [here](task.md).
+The task you have you to complete has been uploaded [here](task.md). 
+<br>
+Try it out, you will not be disappointed.... **(freebie alert)** 
 <br>
 <br>
 <b>Have a great day :)</b>
