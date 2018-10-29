@@ -7,7 +7,7 @@ The department symposium workshop content.
 # Task
 The task you have you to complete has been uploaded [here](task.md). 
 <br>
-Try it out, you will not be disappointed.... **(freebie alert)** 
+Try it out, you will not be disappointed.... **(Freebie Alert. I've got only 60 though.)** 
 <br>
 <br>
 <b>Have a great day :)</b>
