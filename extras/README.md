@@ -1,7 +1,9 @@
 # Contents
 The following are added,
-* CheatSheet
-* Book
+* [Visualization](https://git-school.github.io/visualizing-git)
+* [Learn Online](https://learngitbranching.js.org)
+* [CheatSheet](cheat-sheet.pdf)
+* [Book](book.pdf)
 # CheatSheet
 This can get you though most of the real life situations with ease.
 # Book
